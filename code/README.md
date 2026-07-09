@@ -1,12 +1,9 @@
 # VideoNeuMat Code
 
-This directory is a placeholder for the VideoNeuMat implementation.
+The code is released here: **https://github.com/bowenxueai/videoneumatcode**
 
-Planned contents:
+- Main pipeline — **text → neural material** (one command, `release/oneclick_material.sh`):
+  a text prompt → fine-tuned Wan2.1-T2V-14B material video → feed-forward LRM neural-material extraction.
+- Pretrained weights: HuggingFace **https://huggingface.co/yley/videoneumat**
 
-- Training and inference scripts.
-- Material reconstruction code.
-- Rendering and evaluation utilities.
-- Setup instructions and pretrained model links, if released.
-
-Until the public code release is ready, use the project page, paper, supplementary material, and video links from the repository root README.
+See that repository's README for setup, weights, and usage.
