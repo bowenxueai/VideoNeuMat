@@ -15,8 +15,7 @@ SIGGRAPH 2026
 
 ## Code
 
-**[github.com/bowenxueai/videoneumatcode](https://github.com/bowenxueai/videoneumatcode)** — official code release.
-The main pipeline is **text → neural material** (one command); pretrained weights on
+Code coming soon. Pretrained weights are available on
 HuggingFace [`yley/videoneumat`](https://huggingface.co/yley/videoneumat).
 
 ## Citation
